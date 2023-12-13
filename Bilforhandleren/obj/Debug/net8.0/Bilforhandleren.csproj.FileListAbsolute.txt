@@ -1,0 +1,14 @@
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/obj/Debug/net8.0/Bilforhandleren.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/obj/Debug/net8.0/Bilforhandleren.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/obj/Debug/net8.0/Bilforhandleren.AssemblyInfo.cs
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/obj/Debug/net8.0/Bilforhandleren.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/bin/Debug/net8.0/Bilforhandleren
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/bin/Debug/net8.0/Bilforhandleren.deps.json
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/bin/Debug/net8.0/Bilforhandleren.runtimeconfig.json
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/bin/Debug/net8.0/Bilforhandleren.dll
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/bin/Debug/net8.0/Bilforhandleren.pdb
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/obj/Debug/net8.0/Bilforhandleren.dll
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/obj/Debug/net8.0/refint/Bilforhandleren.dll
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/obj/Debug/net8.0/Bilforhandleren.pdb
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/obj/Debug/net8.0/Bilforhandleren.genruntimeconfig.cache
+/Users/halvorsen/Documents/GetAcademy /PP/Bilforhandleren/Bilforhandleren/obj/Debug/net8.0/ref/Bilforhandleren.dll
